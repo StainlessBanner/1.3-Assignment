@@ -1,1 +1,2 @@
-# 1.3-Assignment
+By Joshua Koshy, Anshuman Mukherjee, Diyaan Mehta, and Oliver Meuse
+ 
